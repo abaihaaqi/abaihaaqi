@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @abaihaaqi
-- 👀 I’m interested in Web3
-- 🌱 I’m currently learning NextJS
-- 📫 How to reach me [twitter](https://twitter.com/abaihaaqi)
+Hi, I'm Nizar Baihaqi from Indonesia, if you know Bali, then there is my Country. 👋
